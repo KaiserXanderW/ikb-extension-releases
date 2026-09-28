@@ -1,1 +1,13 @@
-{"addons":{"ikb@interactive-knowledge-base.local":{"updates":[]}}}
+{
+  "addons": {
+    "ikb@interactive-knowledge-base.local": {
+      "updates": [
+        {
+          "version": "0.1.1",
+          "update_link": "https://raw.githubusercontent.com/KaiserXanderW/ikb-extension-releases/main/xpi/ikb-0.1.1.xpi",
+          "update_hash": "sha256:a20555ddaed126e28c309c57a93e4a29c3b72816975b12b16aba2b5b6ad76634"
+        }
+      ]
+    }
+  }
+}
