@@ -36,6 +36,11 @@
           "version": "0.4.0",
           "update_link": "https://raw.githubusercontent.com/KaiserXanderW/ikb-extension-releases/main/xpi/ikb-0.4.0.xpi",
           "update_hash": "sha256:adf31601cbcd651bc9383464556391c208f33ff9bc08410f9a2a94611bdb0711"
+        },
+        {
+          "version": "0.4.1",
+          "update_link": "https://raw.githubusercontent.com/KaiserXanderW/ikb-extension-releases/main/xpi/ikb-0.4.1.xpi",
+          "update_hash": "sha256:3ade8e46d68c1b53523cb70d89556db1f43968e9b4a8f188f16f7941db875844"
         }
       ]
     }
